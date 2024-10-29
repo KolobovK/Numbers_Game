@@ -29,6 +29,6 @@ static int GenerateUniqueDigitNumber()
 * Если цифра еще не была добавлена, она добавляется к строке number.
 ### Возврат результата:
 * Когда строка number достигает длины 4, она конвертируется в целое число с помощью метода int.Parse() и возвращается как результат функции.
-
-
-
+## Работа программы
+![Регестрация](https://github.com/user-attachments/assets/2959a895-30c1-49a4-a5e1-7fbea24236ff)
+![Игра](https://github.com/user-attachments/assets/45e976af-d63c-416f-9af8-09721c5678f7)
