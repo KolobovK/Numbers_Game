@@ -5,3 +5,10 @@ C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОП�
 C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
 C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.exe
 C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.pdb
+C:\Users\Kolob\Source\Repos\Numbers_Game\bin\Debug\Game.exe.config
+C:\Users\Kolob\Source\Repos\Numbers_Game\bin\Debug\Game.exe
+C:\Users\Kolob\Source\Repos\Numbers_Game\bin\Debug\Game.pdb
+C:\Users\Kolob\Source\Repos\Numbers_Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Kolob\Source\Repos\Numbers_Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Kolob\Source\Repos\Numbers_Game\obj\Debug\Game.exe
+C:\Users\Kolob\Source\Repos\Numbers_Game\obj\Debug\Game.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kolob\\source\\repos\\Numbers_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3338F8D3-0070-428F-A183-6909B00D7A65}|Game.csproj|c:\\users\\kolob\\source\\repos\\numbers_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3338F8D3-0070-428F-A183-6909B00D7A65}|Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kolob\\source\\repos\\Numbers_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kolob\\source\\repos\\Numbers_Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAIwOYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:26:36.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
